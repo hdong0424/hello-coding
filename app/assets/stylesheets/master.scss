@@ -59,6 +59,8 @@ h2 {
 	font-family: 'Roboto', sans-serif;
 }
 
+
+
 .next-quote {
 	color: #f84342;
 	font-family: 'Roboto', sans-serif;
@@ -67,7 +69,10 @@ h2 {
 
 .footer-blurb {
 	font-family: 'Roboto', sans-serif;
-	font-style: italic;
 	text-align: right;
 	font-size: 13px;
+}
+
+.logo:hover {
+	text-decoration: none;
 }
